@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ActorCast xmlns:ch="http://www.gotoqa.ru/character/"
+           xmlns:ac="http://www.gotoqa.ru/actor/">
+    <Cast id="1">
+        <ch:Character>
+            <ch:FirstName>Daenerys</ch:FirstName>
+            <ch:LastName>Targaryen</ch:LastName>
+        </ch:Character>
+        <ac:Actor>
+            <ac:FirstName>Emilia</ac:FirstName>
+            <ac:LastName>Clarke</ac:LastName>
+            <ac:BirthDay>23 October 1986</ac:BirthDay>
+        </ac:Actor>
+    </Cast>
+</ActorCast>
